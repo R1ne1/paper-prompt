@@ -31,6 +31,7 @@
 | [Related Work撰写](4-论文写作/Related%20Work撰写.txt) | 生成Related Work |
 | [段落扩写](4-论文写作/段落扩写.txt) | 将草稿片段扩写为学术规范段落 |
 | [图表描述](4-论文写作/图表描述.txt) | 生成 Figure/Table Caption 规范 + 正文结果描述 |
+| [Conclusion撰写](4-论文写作/Conclusion撰写.txt) | 生成结构完整、收束有力的 Conclusion |
 
 ### 5. 翻译与润色
 
@@ -64,7 +65,8 @@
 │   ├── 摘要撰写.txt
 │   ├── Related Work撰写.txt
 │   ├── 段落扩写.txt
-│   └── 图表描述.txt
+│   ├── 图表描述.txt
+│   └── Conclusion撰写.txt
 ├── 5-翻译与润色/
 │   ├── 中译英.txt
 │   ├── 英译中.txt
